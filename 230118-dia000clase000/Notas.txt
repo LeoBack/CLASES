@@ -1,0 +1,16 @@
+
+TECNOLOGIAS
+--------------------------------
+# JS (Lenguaje interpertado)
+# NODEJS (Framerwork nivel sistema)
+# -> VOLTA.SH (manejador de versiones instala NODE) https://docs.volta.sh/guide/getting-started
+# EXPRESJS (manejador de paquetes npn NodeJs) *Instalar
+# MYSQL (Base de datos) *Instalar
+# TS (SuperSet JS)
+# REACT (Framerwork FrontEnd apk web)
+
+HERRAMIENTAS
+--------------------------------
+# GIT (Control de versiones)
+# VSCODE (Editor)
+# 
