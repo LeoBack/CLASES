@@ -1,5 +1,3 @@
-// retorna titulo como array de string
-
 const data = require("../tasksData")
 
 function filter(pFilter) {

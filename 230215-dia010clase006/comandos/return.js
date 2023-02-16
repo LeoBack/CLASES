@@ -1,5 +1,3 @@
-// retorna titulo y descripcion como texto dede un indice
-
 const data = require("../tasksData")
 
 function retornar(pTitle) {

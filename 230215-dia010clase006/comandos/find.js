@@ -1,5 +1,3 @@
-// retorna true o false si lo encuentra
-
 const data = require("../tasksData")
 
 function find(pTitle) {

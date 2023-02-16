@@ -1,5 +1,3 @@
-
-
 function help() {
     return  "edit\tEdita la descripcion utilizando un titulo\n\t- npm start edit Title1 newDescripcion\n" +
             "filter\tFiltra Titulos por coincidencias\n\t- npm start filter co\n" +

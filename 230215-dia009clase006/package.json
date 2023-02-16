@@ -1,7 +1,7 @@
 {
-  "name": "clase6",
+  "name": "clase006",
   "version": "1.0.0",
-  "description": "Ejercicios clase 6 [Dia 8]",
+  "description": "Ejercicios clase 6 [Dia 9]",
   "main": "index.js",
   "scripts": {
     "start": "node tasks.js"
