@@ -1,11 +1,12 @@
 const fs = require("fs");
 
-console.log(fs.readFileSync("./data.json", "utf8"));
+// console.log(fs.readFileSync("./data.json", "utf8"));
+// console.log(fs.readFileSync("./tasksData.json", "utf8"));
 
-// const data = fs.readFileSync("./data.json", "utf8");
-// const dataParsed = JSON.parse(data);
-
+const data = fs.readFileSync("./tasksData.json", "utf8");
 // console.log(JSON.parse(data));
+const dataParsed = JSON.parse(data);
+console.log(dataParsed);
 
 // const text = fs.readFileSync("./info.txt", "utf8");
 // console.log(text);
