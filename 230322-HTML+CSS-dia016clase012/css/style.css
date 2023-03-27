@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #1f618d;
+    color: #ffffff;
+  }
+  
+  header h1 {
+    color: #ca6f1e;
+    /* margin: 8px; Un solo valor, aplica a los 4 lados */
+    /* margin: 16px 4px 8px 0px; Aplico valores por cada uno de los lados */
+    margin: 0px 10px;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: blue;
+  }
+  
+  .navigation {
+    background-color: #00000033;
+    padding: 8px;
+  }
+  
+  .navigation ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .navigation ul li {
+    margin: 0px 8px;
+  }
