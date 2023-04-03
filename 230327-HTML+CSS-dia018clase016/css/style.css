@@ -1,0 +1,75 @@
+* * {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #1f618d;
+  color: #ffffff;
+}
+
+header h1 {
+  color: #ca6f1e;
+  /* margin: 8px; Un solo valor, aplica a los 4 lados */
+  /* margin: 16px 4px 8px 0px; Aplico valores por cada uno de los lados */
+  margin: 0px 10px;
+  padding: 20px;
+}
+
+h1 {
+  color: blue;
+}
+
+footer {
+  background-color: rgb(62, 14, 107);
+  min-height: 80px;
+}
+
+footer .navigation {
+  margin-bottom: 16px;
+}
+
+footer .navigation ul {
+  justify-content: center;
+  align-items: center;
+}
+
+footer h3 {
+  text-align: center;
+  color: #ffffff;
+}
+
+.navigation {
+  background-color: #00000033;
+  padding: 0px 8px;
+  height: 50px;
+}
+
+.navigation a {
+  color: #ffffff;
+  text-decoration: none;
+  line-height: 50px;
+}
+
+.navigation li:hover {
+  background-color: teal;
+}
+
+.navigation ul {
+  display: flex;
+  list-style: none;
+}
+
+.navigation ul li {
+  margin: 0px 8px;
+  line-height: 30px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.min-height {
+  min-height: 100vh;
+}
