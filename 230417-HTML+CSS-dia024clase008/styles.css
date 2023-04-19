@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+form input,
+label,
+select {
+  display: block;
+}
+
+form label {
+  text-align: center;
+  margin: 8px;
+}
+
+form input,
+select {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+form fieldset {
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  padding: 12px;
+  border-radius: 8px;
+  margin: 8px auto;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+.schema {
+  padding: 30px;
+}
+
+.schema h2 {
+  text-align: center;
+}
+
+.inputs {
+  display: flex;
+}
+
+.inputs-left {
+  flex: 1;
+  padding: 40px 20px;
+}
+
+.inputs-right {
+  flex: 1;
+  padding: 40px 20px;
+}
+
+.radious {
+  height: 150px;
+}
+
+.radious h3 {
+  text-align: center;
+}
+
+.check-button {
+  height: 150px;
+}
+
+.check-button button {
+  display: block;
+  margin: 8px auto;
+  padding: 8px;
+  background-color: grey;
+  color: white;
+}
