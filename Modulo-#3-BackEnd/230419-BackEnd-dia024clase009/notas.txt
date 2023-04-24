@@ -1,0 +1,8 @@
+#1  Inicializamos git: git init
+    editamos .gitignore agregamos => node_modules
+
+#2  Inicializamos proyecto: npm init -y
+
+#3  Instalamos: npm i express
+
+
